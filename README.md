@@ -1,4 +1,4 @@
-# GPA-Calculator-Bot
+# GPA Calculator Bot
 
 Telegram bot that answers grade questions written in plain language. Gemini API reads the message and pulls out the numbers into a structured request (Pydantic schema); the math itself is done in Python.
 
